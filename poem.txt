@@ -4,6 +4,7 @@ Violet
 Indigo
 Blue
 Green
+Recycle!
 UNICORN
 Yellow
 Orange
@@ -12,3 +13,6 @@ These are the colours of Rainbow.
 RAINBOW AND UNICORN
 
 Adding again after merging it with mains.
+
+Remained on main!
+
